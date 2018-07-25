@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1449210191 source:c:\users\syed eyasin\desktop\wrecking face!!\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<time.h>
+	"character.h"
+	"animation.h"
+	"scorecard.h"
+	"notification.h"
+	"standing.h"
+
+1449088342 c:\users\syed eyasin\desktop\wrecking face!!\character.h
+
+1449088319 c:\users\syed eyasin\desktop\wrecking face!!\animation.h
+
+1449090394 c:\users\syed eyasin\desktop\wrecking face!!\scorecard.h
+
+1449088364 c:\users\syed eyasin\desktop\wrecking face!!\notification.h
+
+1449088408 c:\users\syed eyasin\desktop\wrecking face!!\standing.h
+
